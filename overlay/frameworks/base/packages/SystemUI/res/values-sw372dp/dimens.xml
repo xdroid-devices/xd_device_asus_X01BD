@@ -17,4 +17,7 @@
 -->
 <resources>
     <dimen name="rounded_corner_content_padding">8dp</dimen>
+
+    <!-- Speed up the animations -->
+    <fraction name="def_window_transition_scale">50%</fraction>
 </resources>
