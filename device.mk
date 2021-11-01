@@ -20,7 +20,7 @@ PRODUCT_ENFORCE_RRO_EXCLUDED_OVERLAYS += \
     $(LOCAL_PATH)/overlay-lineage/lineage-sdk
 
 PRODUCT_PACKAGES += \
-    NoCutoutOverlay
+    X01BDNoCutoutOverlay
 
 # Ramdisk
 PRODUCT_PACKAGES += \
